@@ -1,1 +1,1 @@
-Install Live Server Extension - :D
+Remember to Install Live Server Extension - :D
